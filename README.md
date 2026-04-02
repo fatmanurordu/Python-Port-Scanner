@@ -1,3 +1,7 @@
+# Port Scanner (Python)
+
+This project scans open ports on a target IP address using multithreading for faster performance.
+
 # Python Port Scanner
 
 Python ile yazılmış basit bir port tarayıcı.  
